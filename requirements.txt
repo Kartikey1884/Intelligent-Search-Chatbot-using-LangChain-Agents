@@ -11,3 +11,5 @@ duckduckgo-search
 wikipedia
 arxiv
 pypdf
+ddgs
+
